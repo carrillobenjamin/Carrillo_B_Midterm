@@ -1,0 +1,10 @@
+@charset="UTF-8";
+/* CSS Document */
+
+body {
+	background: beige;
+}
+
+.hidden {
+	display: none;
+}
